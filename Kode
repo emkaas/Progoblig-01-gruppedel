@@ -1,0 +1,162 @@
+background = rectangle(500, 150, "outline", "black")
+
+black = circle(10, "solid", "black")
+  red = circle(20, "solid", "red")
+  green = circle(30, "solid", "green")
+  blue = circle(40, "solid", "blue")
+  yellow = circle(50, "solid", "yellow")
+
+  x1 = 100
+  y1 = 75
+
+  x2 = 250
+  y2 = 75
+
+  x3 = 400
+  y3 = 75
+
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x1, y1,
+        place-image(green, x1, y1,
+          place-image(blue, x1, y1,
+            place-image(yellow, x1, y1,
+              background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x2, y2,
+        place-image(green, x1, y1,
+          place-image(blue, x1, y1,
+            place-image(yellow, x1, y1,
+                background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x2, y2,
+        place-image(green, x3, y3,
+          place-image(blue, x1, y1,
+            place-image(yellow, x1, y1,
+                background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x3, y3,
+        place-image(green, x3, y3,
+          place-image(blue, x1, y1,
+            place-image(yellow, x1, y1,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x3, y3,
+        place-image(green, x3, y3,
+          place-image(blue, x2, y2,
+            place-image(yellow, x1, y1,
+                background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x1, y1,
+        place-image(green, x3, y3,
+          place-image(blue, x2, y2,
+            place-image(yellow, x1, y1,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x1, y1,
+        place-image(green, x2, y2,
+          place-image(blue, x2, y2,
+            place-image(yellow, x1, y1,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x2, y2,
+        place-image(green, x2, y2,
+          place-image(blue, x2, y2,
+            place-image(yellow, x1, y1,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x2, y2,
+        place-image(green, x2, y2,
+          place-image(blue, x2, y2,
+            place-image(yellow, x3, y3,
+                background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x3, y3,
+        place-image(green, x2, y2,
+          place-image(blue, x2, y2,
+            place-image(yellow, x3, y3,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x3, y3,
+        place-image(green, x1, y1,
+          place-image(blue, x2, y2,
+            place-image(yellow, x3, y3,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x1, y1,
+        place-image(green, x1, y1,
+          place-image(blue, x2, y2,
+            place-image(yellow, x3, y3,
+                background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x1, y1,
+        place-image(green, x1, y1,
+          place-image(blue, x3, y3,
+            place-image(yellow, x3, y3,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x2, y2,
+        place-image(green, x1, y1,
+          place-image(blue, x3, y3,
+            place-image(yellow, x3, y3,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x2, y2,
+        place-image(green, x3, y3,
+          place-image(blue, x3, y3,
+            place-image(yellow, x3, y3,
+               background)))))))
+
+place-image(black, x1, y1,
+  place-image(black, x2, y2,
+    place-image(black, x3, y3, 
+      place-image(red, x3, y3,
+        place-image(green, x3, y3,
+          place-image(blue, x3, y3,
+            place-image(yellow, x3, y3,
+               background)))))))
+  
